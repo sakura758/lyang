@@ -30,7 +30,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "A Hugo theme ported from the static site generator Ivy."
+  description: "Welcome to my world！"
   footer: "&copy; [lyang](https://sunny335.netlify.app/) 2022 | [Github](https://github.com/sakura758)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]

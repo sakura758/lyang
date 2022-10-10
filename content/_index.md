@@ -8,7 +8,7 @@ title: Home
 
 
 
-This is my  website[GitHub](https://github.com/sakura758/lyang).
+Welcome to my website，this is my  [GitHub](https://github.com/sakura758/lyang).
 
 All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/).
 

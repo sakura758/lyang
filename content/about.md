@@ -7,5 +7,3 @@ title: lyang
 This is my world, you are welcome to come.
 
 I hope you enjoy being here. Happy hacking!
-
-![unnamed](E:\图片\下载\unnamed.png)

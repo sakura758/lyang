@@ -9,5 +9,3 @@ This is my world, you are welcome to come.
 I hope you enjoy being here. Happy hacking!
 
 
-
-![as](E:\图片\as.png)

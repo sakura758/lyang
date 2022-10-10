@@ -1,3 +1,12 @@
+---
+title: Java静态工厂
+author: ''
+date: '2022-10-10'
+slug: java
+categories: []
+tags: []
+---
+
 # Java静态工厂方法
 
 ## 什么是静态工厂方法

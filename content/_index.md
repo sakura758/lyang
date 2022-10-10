@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="https://img1.baidu.com/it/u=1458698859,3365697463&fm=253&fmt=auto&app=120&f=JPEG?w=1280&h=800" style="max-width:40%;min-width:40px;float:left;"/>](https://github.com/sakura758/)
+[<img src="https://img1.baidu.com/it/u=1458698859,3365697463&fm=253&fmt=auto&app=120&f=JPEG?w=1280&h=800" style="max-width:20%;min-width:40px;float:right;"/>](https://github.com/sakura758/)
 
 
 
